@@ -17,6 +17,3 @@ Files: <ul>
 - cs402.h
 - Makefile
 - README
-
--------------
-
